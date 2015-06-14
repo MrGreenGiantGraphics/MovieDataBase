@@ -1,0 +1,14 @@
+D:\DualFolder\CODER_CAMP\GITHUB\C#\ProjectMovieDB\ProjectMovieDB.Data\bin\Debug\ProjectMovieDB.Data.dll.config
+D:\DualFolder\CODER_CAMP\GITHUB\C#\ProjectMovieDB\ProjectMovieDB.Data\bin\Debug\ProjectMovieDB.Data.dll
+D:\DualFolder\CODER_CAMP\GITHUB\C#\ProjectMovieDB\ProjectMovieDB.Data\bin\Debug\ProjectMovieDB.Data.pdb
+D:\DualFolder\CODER_CAMP\GITHUB\C#\ProjectMovieDB\ProjectMovieDB.Data\bin\Debug\EntityFramework.dll
+D:\DualFolder\CODER_CAMP\GITHUB\C#\ProjectMovieDB\ProjectMovieDB.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\DualFolder\CODER_CAMP\GITHUB\C#\ProjectMovieDB\ProjectMovieDB.Data\bin\Debug\ProjectMovieDB.Data.Model.dll
+D:\DualFolder\CODER_CAMP\GITHUB\C#\ProjectMovieDB\ProjectMovieDB.Data\bin\Debug\ProjectMovieDB.Data.Model.pdb
+D:\DualFolder\CODER_CAMP\GITHUB\C#\ProjectMovieDB\ProjectMovieDB.Data\bin\Debug\EntityFramework.xml
+D:\DualFolder\CODER_CAMP\GITHUB\C#\ProjectMovieDB\ProjectMovieDB.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\DualFolder\CODER_CAMP\GITHUB\C#\ProjectMovieDB\ProjectMovieDB.Data\obj\Debug\_ProjectMovieDB.Data.csprojResolveAssemblyReference.cache
+D:\DualFolder\CODER_CAMP\GITHUB\C#\ProjectMovieDB\ProjectMovieDB.Data\obj\Debug\ProjectMovieDB.Data.Migrations.doittoit.resources
+D:\DualFolder\CODER_CAMP\GITHUB\C#\ProjectMovieDB\ProjectMovieDB.Data\obj\Debug\_ProjectMovieDB.Data.csproj.GenerateResource.Cache
+D:\DualFolder\CODER_CAMP\GITHUB\C#\ProjectMovieDB\ProjectMovieDB.Data\obj\Debug\ProjectMovieDB.Data.dll
+D:\DualFolder\CODER_CAMP\GITHUB\C#\ProjectMovieDB\ProjectMovieDB.Data\obj\Debug\ProjectMovieDB.Data.pdb

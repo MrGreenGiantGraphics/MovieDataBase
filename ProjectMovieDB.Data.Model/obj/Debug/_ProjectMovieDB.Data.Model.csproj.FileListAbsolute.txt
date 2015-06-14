@@ -1,0 +1,9 @@
+D:\DualFolder\CODER_CAMP\GITHUB\C#\ProjectMovieDB\ProjectMovieDB.Data.Model\bin\Debug\ProjectMovieDB.Data.Model.dll.config
+D:\DualFolder\CODER_CAMP\GITHUB\C#\ProjectMovieDB\ProjectMovieDB.Data.Model\bin\Debug\ProjectMovieDB.Data.Model.dll
+D:\DualFolder\CODER_CAMP\GITHUB\C#\ProjectMovieDB\ProjectMovieDB.Data.Model\bin\Debug\ProjectMovieDB.Data.Model.pdb
+D:\DualFolder\CODER_CAMP\GITHUB\C#\ProjectMovieDB\ProjectMovieDB.Data.Model\bin\Debug\EntityFramework.dll
+D:\DualFolder\CODER_CAMP\GITHUB\C#\ProjectMovieDB\ProjectMovieDB.Data.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\DualFolder\CODER_CAMP\GITHUB\C#\ProjectMovieDB\ProjectMovieDB.Data.Model\bin\Debug\EntityFramework.xml
+D:\DualFolder\CODER_CAMP\GITHUB\C#\ProjectMovieDB\ProjectMovieDB.Data.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\DualFolder\CODER_CAMP\GITHUB\C#\ProjectMovieDB\ProjectMovieDB.Data.Model\obj\Debug\ProjectMovieDB.Data.Model.dll
+D:\DualFolder\CODER_CAMP\GITHUB\C#\ProjectMovieDB\ProjectMovieDB.Data.Model\obj\Debug\ProjectMovieDB.Data.Model.pdb

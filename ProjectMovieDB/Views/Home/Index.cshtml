@@ -1,0 +1,29 @@
+﻿@model ProjectMovieDB.Models.MovieView
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>@Model.Message</h1>
+    <table class="table table-striped table-responsive">
+        <thead>
+            <tr>
+                <td>Title</td>
+                <td>Rating</td>
+                <td>Description</td>
+            </tr>
+        </thead>
+        @foreach (var m in Model.MovieList)
+       {
+            <tr>
+                <td>
+                    @Html.ActionLink(m.NameOfFilm, "Details", "Home", new { id= m.MovieId }, "")
+
+                </td>
+                <td>@m.Rating</td>
+                <td>@m.Description</td>
+            </tr>
+       }
+    </table>
+
+</div>
